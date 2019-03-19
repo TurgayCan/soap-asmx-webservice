@@ -2,6 +2,7 @@
 send soap message with empty SOAPAction SOAP 1.1 using asmx web service
 
 
+
 Request (Raw)
 
 POST http://127.0.0.1:8080/NotifySmsReception.asmx HTTP/1.1
