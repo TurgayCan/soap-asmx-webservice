@@ -1,7 +1,7 @@
 # soap-asmx-webservice
 send soap message with empty SOAPAction SOAP 1.1 using asmx web service
 
-
+Formatted view : https://raw.githubusercontent.com/TurgayCan/soap-asmx-webservice/master/README.md
 
 Request (Raw)
 
